@@ -241,3 +241,6 @@ This repository serves as the official landing page for ZGestión. The software 
 [![Download Latest Version](https://img.shields.io/badge/📥%20Download%20Latest%20Version-00b4d8?style=for-the-badge&logo=github&logoColor=white)](https://ziclope.net)
 
 **Get the most recent version of ZGestión today!**
+
+---
+**Last updated:** 2026-09-11 23:44:51 UTC

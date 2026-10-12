@@ -243,4 +243,4 @@ This repository serves as the official landing page for ZGestión. The software 
 **Get the most recent version of ZGestión today!**
 
 ---
-**Last updated:** 2026-10-12 08:41:46 UTC
+**Last updated:** 2026-10-12 18:26:17 UTC
